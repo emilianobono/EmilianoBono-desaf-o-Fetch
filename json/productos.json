@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Kitty Flip-flops",
+        "brand": "Kitty Girl",
+        "price": 10,
+        "img": "kittyflipflops.jpg"
+    },
+    {
+        "name": "Cat Hat",
+        "brand": "Kitty Girl",
+        "price": 5,
+        "img": "kittyhat.jpg"
+    },
+    {
+        "name": "Kitty Pijamas",
+        "brand": "Kitty Girl",
+        "price": 13,
+        "img": "kittypijamas.jpg"
+    },
+    {
+        "name": "Kitty Sneakers",
+        "brand": "Kitty Girl",
+        "price": 16,
+        "img": "kittysneakers.webp"
+    },
+    {
+        "name": "Kitty Backpack",
+        "brand": "Kitty Girl",
+        "price": 16,
+        "img": "kittybackpack.jpg"
+    },
+    {
+        "name": "Kitty Suitcase",
+        "brand": "Kitty Girl",
+        "price": 20,
+        "img": "kittysuitcase.webp"
+    },
+    {
+        "name": "Kitty Watch",
+        "brand": "Kitty Girl",
+        "price": 7,
+        "img": "kittywatch.jpg"
+    },
+    {
+        "name": "Kitty Umbrella",
+        "brand": "Kitty Girl",
+        "price": 8,
+        "img": "kittyumbrella.jpg"
+    }
+]
